@@ -7,7 +7,7 @@ She has a big personality and enjoys being the center of attention.
 
 ## Access this project:
 
-heatherfeather-code.github.io/useless-web
+[Queen's Wisdom] (heatherfeather-code.github.io/Useless-Web)
 
 Enjoy all the wisdom Queen has to offer!
 
