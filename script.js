@@ -41,6 +41,50 @@ const queenWisdom = [
         image:"img/queen9.jpg",
         captionFunny:"Queen.exe has stopped working.", 
         caption: "I was too stunned that you didn't know how to manipulate your humans!"
+    },
+    {
+        image:"img/queen10.jpg",
+        caption: "Sometimes even cat's get annoyed...But I am perfect so I don't get annoyed often."
+    },
+    {
+        image:"img/queen11.jpg",
+        caption: "My parents like to play this game called hide and seek. I always win."
+    }, 
+    {
+        image:"img/queen12.jpg",
+        caption: "This is my pillow human, find your own... I am not sharing."
+    }, 
+    {
+        image: "img/queen13.jpg",
+        caption: "Mom sometimes plays with yarn, and keeps telling me no, but I don't listen. I am a cat, I do what I want."
+    }, 
+    {
+        image: "img/queen14.jpg",
+        caption: "Sometimes you just need to put your human in their place. Fingers are best for chewing. "
+    }, 
+    {
+        image: "img/queen15.jpg",
+        caption: "I never said I make sense, but the couch needed grooming!"
+    }, 
+    {
+        image: "img/queen16.jpg",
+        caption: "If you are going to follow my guide, you need to be an expert at squirrel hunting. I am the best squirrel hunter in the house."
+    }, 
+    {
+        image: "img/queen17.jpg",
+        caption: "If you feel sad lay in some sun. you will feel better I promise. My parents keep talking about seasonal depression or something... I don't know what that is."
+    }, 
+    {
+        image: "img/queen18.jpg",
+        caption: "You need to remind your humans that you are the boss. I am the boss, I am the queen. Especially when they intrude in my cardboard house."
+    }, 
+    {
+        image:"img/queen19.jpg",
+        caption: "If the box holds you, you sits. My mother kept yelling at me to get down, I don't see the problem."
+    },
+    {
+        image:"img/queen20.jpg",
+        caption:"What are you looking at? I am relaxing, jeez.. Never seen a cat sunbathe? Get a life!"
     }
 
 
