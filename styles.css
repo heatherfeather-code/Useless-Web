@@ -1,0 +1,90 @@
+/* General styling for entire document */
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    /* color: #2c3e50; */
+}
+
+p {
+    font-size: 16px;
+    color: #333;
+    line-height: 1.5;
+}
+
+
+/* ID */
+#header{
+    background-color: #d49a78;
+    padding: 20px 0;
+}
+#introduction{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    gap: 20px; 
+    margin: 40px auto; 
+    padding: 20px;
+    border-bottom: #333 1px solid;
+}
+#queen-headshot {
+    width: 40%; 
+    max-width: 250px;
+    border-radius: 10px; 
+}
+
+#queen-img{
+    max-width:500px;
+    border-radius:10px;
+}
+
+#queen-caption {
+    margin-top: 5px;
+    padding: 0 20px;
+}
+#queen-funny-caption{
+    font-style: italic;
+}
+
+#refresh-btn {
+    background-color: #d49a78;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+
+#refresh-btn:hover {
+    background-color: #c08463;
+}
+#footer{
+    display:flex;
+    justify-content:center;
+    background-color: #d49a78;
+    height:45px;
+    color:white;
+}
+
+/* CLASSES */
+.intro-text{
+    width: 60%;
+}
+
+.container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+}
